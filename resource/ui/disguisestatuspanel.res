@@ -162,7 +162,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"HudFontSmall"
-		"fgcolor"		"41 41 41 255"
+		"fgcolor"		"Shadows"
 		"pin_to_sibling" "PlayerStatusHealthValue"
 	}
 		"PlayerStatusHealthBonusImage"

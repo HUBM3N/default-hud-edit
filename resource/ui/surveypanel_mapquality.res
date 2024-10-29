@@ -60,7 +60,7 @@
 				"tall"			"50"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
-				"bgcolor_override"	"41 41 41 255"
+				"bgcolor_override"	"Shadows"
 
 				"InnerShadow"
 				{

@@ -478,7 +478,7 @@
 					"tall"	"80"
 					"proportionaltoparent"	"1"
 
-					"bgcolor_override"	"41 41 41 255"
+					"bgcolor_override"	"Shadows"
 
 					"WarStandingsProgressBar"
 					{
@@ -566,7 +566,7 @@
 					"tall"	"80"
 					"proportionaltoparent"	"1"
 
-					"bgcolor_override"	"41 41 41 255"
+					"bgcolor_override"	"Shadows"
 
 					"WarStandingsProgressBar"
 					{

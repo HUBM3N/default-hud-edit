@@ -93,7 +93,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"hudfontsmallest"
-		"fgcolor_override" "41 41 41 255"
+		"fgcolor_override" "Shadows"
 		"pin_to_sibling" "ItemEffectMeterLabel"
 	}
 
@@ -159,7 +159,7 @@
 		"brighttext"			"0"
 		"font"					"HudFontMedium"
 		"font_minmode"			"HudFontSmall"
-		"fgcolor" "41 41 41 255"
+		"fgcolor" "Shadows"
 		"pin_to_sibling" "ItemEffectMeterCount"
 	}
 }

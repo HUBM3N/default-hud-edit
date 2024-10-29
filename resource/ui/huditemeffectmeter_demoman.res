@@ -117,7 +117,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"HudFontMedium"
-		"fgcolor" "41 41 41 255"
+		"fgcolor" "Shadows"
 		"pin_to_sibling" "ItemEffectMeterCount"
 	}
 }

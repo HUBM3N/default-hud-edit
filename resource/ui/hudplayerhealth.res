@@ -45,6 +45,20 @@
 		"scaleImage"	"1"	
 		"pin_to_sibling" "xhair"
 	}	
+		"xhair3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"xhair3"
+		"xpos"			"cs-0.505"
+		"ypos"		   "cs-0.501"
+		"zpos"			"3"
+		"wide"			"20"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/xhair2"
+		"scaleImage"	"1"	
+	}	
 
 		"numbers"
 	{
@@ -76,7 +90,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/numbers"
 		"scaleImage"	"1"	
-		"drawcolor" 	"41 41 41 255"
+		"drawcolor" 	"Shadows"
 		"pin_to_sibling" "numbers"
 	}	
 				"mu"
@@ -109,7 +123,7 @@
 		"enabled"		"1"
 		"image"			"replay/thumbnails/mu"
 		"scaleImage"	"1"	
-		"drawcolor" "41 41 41 255"
+		"drawcolor" "Shadows"
 		"pin_to_sibling" "mu"
 
 	}	
@@ -196,7 +210,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"HudClassHealth"
-		"fgcolor"		"41 41 41 255"
+		"fgcolor"		"Shadows"
 		"pin_to_sibling" "PlayerStatusHealthValue"
 	}
 	"PlayerStatusMaxHealthValue"

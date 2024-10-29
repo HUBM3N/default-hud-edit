@@ -34,6 +34,6 @@
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"bgcolor_override" "41 41 41 255"
+		"bgcolor_override" "Shadows"
 	}						
 }

@@ -109,7 +109,7 @@
 		"textAlignment"		"North-West"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override" "41 41 41 255"
+		"fgcolor_override" "Shadows"
 		"pin_to_sibling" "TargetNameLabel"
 	}
 	"TargetDataLabel"
@@ -187,7 +187,7 @@
 				"image"										"replay/thumbnails/fg"
 				"scaleImage" "1"
 				"pin_to_sibling" "healthbarc"
-				"drawcolor" "41 41 41 255"
+				"drawcolor" "Shadows"
 			}
 				"PlayerStatusHealthValue"
 	{

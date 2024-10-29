@@ -21,7 +21,10 @@ Scheme
 	Colors
 	{
 		// base colors
-		"Orange"			"178 82 22 255"
+    	"Shadows"			"41 41 41 255" 
+
+
+		"Orange"			"178 82 22 255" 
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"		"188 112 0 128"
 		"GoalOrange"		"255 133 0"
@@ -424,8 +427,8 @@ Scheme
 
 		// CHudMenu
 		"ItemColor"		"255 167 42 200"	// default 255 167 42 255
-		"MenuColor"		"233 208 173 255"
-		"MenuBoxBg"		"41 41 41 255"
+		"MenuColor"		"225 225 225 255"
+		"MenuBoxBg"		"41 41 41 128"
 
 		// weapon selection colors
 		"SelectionNumberFg"		"251 235 202 255"

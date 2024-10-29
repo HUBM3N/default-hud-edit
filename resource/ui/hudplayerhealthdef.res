@@ -101,7 +101,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"HudClassHealth"
-		"fgcolor"		"41 41 41 255"
+		"fgcolor"		"Shadows"
 		"pin_to_sibling" "PlayerStatusHealthValue"
 	}
 	"PlayerStatusMaxHealthValue"

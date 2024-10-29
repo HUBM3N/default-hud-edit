@@ -55,6 +55,6 @@
 		"brighttext"	"0"
 		"font"			"hudfontmedium"
 		"pin_to_sibling" "damage"
-		"fgcolor" "41 41 41 255"
+		"fgcolor" "Shadows"
 	}
 }

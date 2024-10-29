@@ -59,7 +59,7 @@
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"bgcolor_override" "41 41 41 255"
+		"bgcolor_override" "Shadows"
 	}				
 		
 	"PipesPresentPanel"
@@ -129,7 +129,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"hudfontsmall"
-			"fgcolor" "41 41 41 255"
+			"fgcolor" "Shadows"
 			"pin_to_sibling" "NumPipesLabel"
 		}		
 	}
@@ -201,7 +201,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"hudfontsmall"
-			"fgcolor" "41 41 41 255"
+			"fgcolor" "Shadows"
 			"pin_to_sibling" "NumPipesLabel"
 		}		
 	}				
