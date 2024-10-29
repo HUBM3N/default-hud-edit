@@ -189,6 +189,11 @@
 				"pin_to_sibling" "healthbarc"
 				"drawcolor" "41 41 41 255"
 			}
+				"PlayerStatusHealthValue"
+	{
+		"xpos"			"13"
+				"font"			"HudFontSmall"
+	}
 	}	
 	
 	"AmmoIcon"
