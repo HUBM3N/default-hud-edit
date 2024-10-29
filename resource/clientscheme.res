@@ -91,8 +91,8 @@ Scheme
 		"HudProgressBarActiveLow"	"240 30 30 255"
 		"HudProgressBarInActiveLow"	"240 30 30 99"	
 
-		"HudTimerProgressActive"	"251 235 202 255"
-		"HudTimerProgressInActive"	"52 48 45 255"
+		"HudTimerProgressActive"	"235 235 235 255"
+		"HudTimerProgressInActive"	"41 41 41 255"
 		"HudTimerProgressWarning"	"240 30 30 255"
 
 		// training
